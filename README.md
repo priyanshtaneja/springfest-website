@@ -1,5 +1,5 @@
 # Spring Fest Jamia
-The website for Spring Fest Jamia (2018). This is intended to be a single page site
+This is website for Spring Fest Jamia (2018). This is intended to be a single page site
 with all the contents and features neatly arranged so as to generate interest.
 
 ## How to contribute
@@ -39,5 +39,5 @@ $ npm install -g browser-sync
 ```
 $ browser-sync start --server --files "*/*"
 ```
-You can then open the site on another device using the link given in the output of the above command.
+You can then open the website on another device using the link given in the output of the above command.
 It will be something like this: `External: http://192.168.0.103:3000`
