@@ -41,3 +41,5 @@ $ browser-sync start --server --files "*/*"
 ```
 You can then open the site on another device using the link given in the output of the above command.
 It will be something like this: `External: http://192.168.0.103:3000`
+
+.
